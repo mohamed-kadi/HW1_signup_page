@@ -1,0 +1,102 @@
+/* h1, h2 {
+  font-family: Lato;
+} */
+
+.signup-group {
+  width:800px;
+  height:800px;
+}
+h1 {
+  text-align: center;
+  font-family:monospace;
+  font-weight: 100;
+}
+#fname {
+  font-size: large;
+  block-size: 30px;
+  float:left;
+  width:45%;
+}
+
+#lname {    
+  font-size: large;
+  block-size: 30px;
+  float: right;
+  width:45%;
+ 
+}
+
+#email {
+  font-size: large;
+  block-size: 30px;
+  margin-top:10px;
+  
+}
+
+#phone {
+  font-size: large;
+  block-size: 30px;
+  margin-top:20px;
+}
+
+#password {
+  align-content:space-between;
+  font-size: large;
+  block-size: 30px;
+  float:left;
+  width:45%;
+  margin-top: 20px;
+}
+
+#cpassword {
+  font-size: large;
+  block-size: 30px;
+  float:right;
+  width:45%;
+  margin-top: 20px;
+  
+}
+#agree {
+  
+  margin-top: 50px;
+  margin-right:50px;
+  
+}
+
+.para1 {
+  font-weight: 100;
+  font-size: small;
+  float:right;
+  text-align: center;
+}
+#register {
+  color:white;
+  background-color: rgb(37, 37, 163);
+}
+
+#reg {
+  font-size:large;
+  block-size: 40px;
+  font-family:monospace;
+  margin-top:30px;
+  float:left;
+  width:45%;
+  color:white;
+  background-color: rgb(26, 26, 194);
+  border:1px;
+  border-radius: 3px;
+
+}
+
+#sign {
+  font-size:large;
+  font-family:monospace;
+  block-size:40px;
+  margin-top:30px;
+  float:right;
+  width:45%;
+  color:white;
+  background-color:green;
+  border:1px;
+  border-radius: 3px;
+}
